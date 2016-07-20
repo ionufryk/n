@@ -1,1 +1,11 @@
+commit eff0ed4ceb4af92b71c7b91cf76dc4f5665d191d
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Wed Jul 20 23:50:33 2016 +0300
 
+    ruby vs python
+
+commit 0c88673f295c6232b5628845d843efa8756b11c5
+Author: Igor Onufryk <ionufryk@xogniance.com>
+Date:   Wed Jul 20 23:44:25 2016 +0300
+
+    added log and test
